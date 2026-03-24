@@ -1,0 +1,2 @@
+Status: 200
+Data: {"current_user_url":"https://api.github.com/user","current_user_authorizations_html_url":"https://gi
